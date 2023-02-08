@@ -2,7 +2,7 @@
 
 Because the original author and owner of GShade decided to be cringe and not only introduce malware, but make it realistically impossible to uninstall without deleting files manually because the uninstaller is dogwater. This is a step by step guide to get rid of GShade.
 
-By the way, I have a fork of a gist file I found that will help you transition from GShade to Reshade. You can find it under [gshade-to-reshade.md](https://github.com/Lunar-Shade/gshade-archive/blob/master/gshade-to-reshade.md)
+By the way, I have a fork of a gist file I found that will help you transition from GShade to Reshade. You can find it under [gshade_to_reshade.md](https://github.com/Lunar-Shade/gshade-archive/blob/master/gshade_to_reshade.md)
 
 ## A. Uninstall GShade Root Files
 
@@ -56,4 +56,4 @@ Confirm the deletion by clicking yes on the popup window.
 
 You have successfully removed GShade from your computer. Now go use Reshade instead, it's better and doesn't have malware.
 
-Check out the file [gshade-to-reshade.md](https://github.com/Lunar-Shade/gshade-archive/blob/master/gshade-to-reshade.md) that will help you transition from GShade to Reshade.
+Check out the file [gshade_to_reshade.md](https://github.com/Lunar-Shade/gshade-archive/blob/master/gshade_to_reshade.md) that will help you transition from GShade to Reshade.
